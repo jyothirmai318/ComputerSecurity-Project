@@ -1,7 +1,4 @@
-## Please READ FIRST
-- This is a python script to encrypt and decrypt files 
-- DON'T WORRY: It will not affect your files in your PC, it will affect only the demo files or any other file in the current directory of the script but for more safety DO NOT run it in your current system, Try to test it in a linux virtual machine or any isolated environment
-- DISCLAIMER: This content is for educational purposes only,  Please DO NOT Use it to harm anyone
+
 
 ## How it works
 1. Clone the project
